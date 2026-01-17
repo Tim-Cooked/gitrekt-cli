@@ -18,8 +18,8 @@ uv.toml
 .idea/*
 
 # Build dependencies
-src/kimi_cli/deps/bin
-src/kimi_cli/deps/tmp
+src/gitrekt_cli/deps/bin
+src/gitrekt_cli/deps/tmp
 
 # Generated reports
 tests_ai/report.json
@@ -27,3 +27,9 @@ tests_ai/report.json
 # nix build result
 result
 result-*
+
+# Database files
+dev.db
+
+# Vite cache
+.vite/
