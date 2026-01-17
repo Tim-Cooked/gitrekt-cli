@@ -10,6 +10,8 @@
 
 Kimi CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, execute shell commands, search and fetch web pages, and autonomously plan and adjust actions during execution.
 
+Gitrekt CLI is a fork of [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) and adheres to the [Apache-2.0 license](./LICENSE).
+
 > [!IMPORTANT]
 > Kimi CLI is currently in technical preview.
 
