@@ -73,8 +73,8 @@ def test_pyinstaller_datas():
             ("src/gitrekt_cli/prompts/compact.md", "gitrekt_cli/prompts"),
             ("src/gitrekt_cli/prompts/init.md", "gitrekt_cli/prompts"),
             (
-                "src/gitrekt_cli/skills/Gitrekt-cli-help/SKILL.md",
-                "gitrekt_cli/skills/Gitrekt-cli-help",
+                "src/gitrekt_cli/skills/kimi-cli-help/SKILL.md",
+                "gitrekt_cli/skills/kimi-cli-help",
             ),
             (
                 "src/gitrekt_cli/skills/skill-creator/SKILL.md",
